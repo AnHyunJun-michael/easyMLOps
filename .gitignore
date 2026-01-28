@@ -1,0 +1,36 @@
+# =====================
+# Local experiments
+# =====================
+test_yolo_project/
+
+# =====================
+# Data & results
+# =====================
+datasets/
+datasets_for_labeling/
+runs/
+inf_results/
+
+# =====================
+# YOLO weights
+# =====================
+*.pt
+
+# =====================
+# Workspace runtime
+# =====================
+workspace/**/*
+!workspace/**/.gitkeep
+
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.pyc
+
+# =====================
+# IDE / UI cache
+# =====================
+.idea/
+.vscode/
+.gradio/
