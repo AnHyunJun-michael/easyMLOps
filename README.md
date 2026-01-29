@@ -50,3 +50,9 @@ paper.
 
 Sample images are taken from the COCO dataset for demonstration purposes only.
 
+## Live Demo (Optional)
+
+A live demonstration of the system is available at the time of submission:
+http://qisens.iptime.org:7863/
+
+Note that the availability of the demo depends on the server status.
