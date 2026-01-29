@@ -56,3 +56,7 @@ A live demonstration of the system is available at the time of submission:
 http://qisens.iptime.org:7863/
 
 Note that the availability of the demo depends on the server status.
+
+## License
+This project is licensed under the MIT License.
+
