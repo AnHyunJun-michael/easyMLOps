@@ -19,6 +19,23 @@ Open your browser at:
 http://127.0.0.1:7860
 
 ## Directory Structure
+core/
+- Core backend logic of the easyMLOps framework, including configuration handling,
+  training orchestration, evaluation utilities, and file management.
+
+ui/
+- Gradio-based user interface components.
+- Each submodule corresponds to a functional tab (dataset setup, training monitor,
+  performance monitoring, labeling, and model comparison).
+
+json/
+- Custom JavaScript assets used to extend and control interactive behaviors
+  of the Gradio interface.
+
+tools/
+- Utility scripts and helper modules for data processing, debugging,
+  and auxiliary workflows.
+
 workspace/datasets_for_labeling/
 - User-uploaded datasets during runtime (not tracked in git)
 
